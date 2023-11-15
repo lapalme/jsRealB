@@ -1,5 +1,7 @@
 # jsRealB - A JavaScript Bilingual Text Realizer for Web Development
 
+## This version of jsRealB is no longer updated, please refer to [rali gibhub version](https://github.com/rali-udem/jsRealB)
+
 *Version 4.5 - September 2022*
 
 **This version is a major code reorganization of the system with JavaScript classes and modules.** This simplifies the internal organization of the code, but the syntactic formalism stays the same, possibly incurring a slight modification in the initial setup.
